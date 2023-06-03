@@ -17,3 +17,7 @@ Guides
 #
 
 Build Requires Lilu and MacKernelSDK
+
+#
+CREDITS TO
+[osy](https://github.com/osy/ThunderboltReset)
